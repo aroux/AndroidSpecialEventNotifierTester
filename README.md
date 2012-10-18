@@ -1,0 +1,4 @@
+AndroidSpecialEventNotifierTester
+=================================
+
+Tester for AndroidSpecialEventNotifier
